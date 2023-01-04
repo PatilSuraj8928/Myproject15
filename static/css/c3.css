@@ -1,0 +1,17 @@
+body
+{
+    background-color: black;
+}
+h1,h2
+{
+    color:lightskyblue;
+}
+img
+{
+    width: 300px;
+    height: 200px;
+}
+a
+{
+    color: lightskyblue;
+}
